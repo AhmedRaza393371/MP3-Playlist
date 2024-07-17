@@ -34,4 +34,4 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 # Acknowledgments
 Icons used from Font Awesome (https://fontawesome.com/)
 Inspiration and guidance from online resources and communities.
-Contact
+
